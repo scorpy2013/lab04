@@ -23,7 +23,7 @@ $ open https://travis-ci.org
 
 ```sh
 $ export GITHUB_USERNAME=scorpy2013
-$ export GITHUB_TOKEN=<полученный_токен>
+$ export GITHUB_TOKEN=0dc94d9c9fe7556bc832fbc82e5b22c21b58328c
 ```
 
 ```sh
