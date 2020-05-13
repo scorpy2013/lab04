@@ -68,28 +68,28 @@ $ rvm install ruby-2.4.2
 Searching for binary rubies, this might take some time.
 No binary rubies available for: kali/kali-rolling/x86_64/ruby-2.6.3.
 Continuing with compilation. Please read 'rvm help mount' to get more information on binary rubies.
-Installing Ruby from source to: /home/mihailus/.rvm/rubies/ruby-2.6.3, this may take a while depending on your cpu(s)...
+Installing Ruby from source to: /home/scorpy/.rvm/rubies/ruby-2.6.3, this may take a while depending on your cpu(s)...
 ruby-2.6.3 - #downloading ruby-2.6.3, this may take a while depending on your connection...
-ruby-2.6.3 - #extracting ruby-2.6.3 to /home/mihailus/.rvm/src/ruby-2.6.3.....
+ruby-2.6.3 - #extracting ruby-2.6.3 to /home/scorpy/.rvm/src/ruby-2.6.3.....
 ruby-2.6.3 - #configuring.......................................................................
 ruby-2.6.3 - #post-configuration..
 ruby-2.6.3 - #compiling..........................................................................................
 ruby-2.6.3 - #installing..................
 ruby-2.6.3 - #making binaries executable..
 Rubygems 3.0.3 already available in installed ruby, skipping installation, use --force to reinstall.
-ruby-2.6.3 - #gemset created /home/mihailus/.rvm/gems/ruby-2.6.3@global
-ruby-2.6.3 - #importing gemset /home/mihailus/.rvm/gemsets/global.gems..................there was an error installing gem gem-wrappers
+ruby-2.6.3 - #gemset created /home/scorpy/.rvm/gems/ruby-2.6.3@global
+ruby-2.6.3 - #importing gemset /home/scorpy/.rvm/gemsets/global.gems..................there was an error installing gem gem-wrappers
 ..................there was an error installing gem rubygems-bundler
 ........................there was an error installing gem rvm
 .......
 ruby-2.6.3 - #generating global wrappers.................
 Error running 'run_gem_wrappers regenerate',
-please read /home/mihailus/.rvm/log/1558774975_ruby-2.6.3/gemset.wrappers.global.log
-ruby-2.6.3 - #gemset created /home/mihailus/.rvm/gems/ruby-2.6.3
-ruby-2.6.3 - #importing gemsetfile /home/mihailus/.rvm/gemsets/default.gems evaluated to empty gem list
+please read /home/scorpy/.rvm/log/1558774975_ruby-2.6.3/gemset.wrappers.global.log
+ruby-2.6.3 - #gemset created /home/scorpy/.rvm/gems/ruby-2.6.3
+ruby-2.6.3 - #importing gemsetfile /home/scorpy/.rvm/gemsets/default.gems evaluated to empty gem list
 ruby-2.6.3 - #generating default wrappers.................
 Error running 'run_gem_wrappers regenerate',
-please read /home/mihailus/.rvm/log/1558774975_ruby-2.6.3/gemset.wrappers.default.log
+please read /home/scorpy/.rvm/log/1558774975_ruby-2.6.3/gemset.wrappers.default.log
 ruby-2.6.3 - #adjusting #shebangs for (gem irb erb ri rdoc testrb rake).
 Install of ruby-2.6.3 - #complete 
 Ruby was built without documentation, to build it run: rvm docs generate-ri
